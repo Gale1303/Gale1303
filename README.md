@@ -9,11 +9,11 @@
     <td width="55%" valign="top" style="border: none; background: transparent; padding-right: 15px;">
       <h3>Sobre mí 🤓</h3>
       <br />
-      <p>🎓 Estudiante de <b>Ingeniería de Sistemas</b>.</p>
-      <p>🔍 Me apasiona desarmar la lógica de un sistema, entender cómo interactúa cada componente y elegir la tecnología adecuada para optimizarlo.</p>
-      <p>💡 No pretendo conocer cada herramienta que existe en el mundo técnico; mi enfoque está en la <b>investigación activa</b> para dominar e implementar exactamente lo que el proyecto necesite.</p>
-      <p>🎨 En el desarrollo, disfruto conectar esa estructura de fondo con interfaces <b>Frontend</b> que sean funcionales y limpias.</p>
-      <p>⚙️ Busco automatizar flujos repetitivos para que el proceso de desarrollo sea lo más eficiente posible.</p>
+      <p>🎓 Estudiante de Ingeniería de Sistemas.</b>.</p>
+      <p>🔍 Me apasiona analizar sistemas a fondo y entender la lógica detrás de cada tecnología.</p>
+      <p>💡 Mi enfoque no es conocerlo todo, sino saber investigar con agilidad para dominar e implementar la herramienta exacta que cada reto demande.</p>
+      <p>🎨 Disfruto traducir estructuras complejas en interfaces Frontend visualmente limpias y funcionales.</p>
+      <p>⚙️ Busco siempre la automatización para optimizar tiempos y hacer los flujos de desarrollo mucho más eficientes.</p>
       <br />
       <p>📬 <b>Contacto:</b> <a href="mailto:gabrielstephano2004@gmail.com">gabrielstephano2004@gmail.com</a></p>
     </td>
