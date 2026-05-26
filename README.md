@@ -2,24 +2,29 @@
   <img width="736" height="414" alt="ezgif-66868342ae0537d1" src="https://github.com/user-attachments/assets/bfd21be3-b128-40f2-8d51-d86cd36b0334" />
 </p>
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <td width="55%" valign="top" style="border: none; background: transparent;">
-      <h3>Sobre mí 🤓</h3>
-      <br />
-      <p>🎓 <b>Estudiante de Ingeniería de Sistemas</b>.</p>
-      <p>🎨 Interesado en el desarrollo <b>Frontend</b> moderno y el diseño de interfaces limpias.</p>
-      <p>⚙️ Entusiasta de las <b>automatizaciones</b> para optimizar flujos de trabajo y tareas repetitivas.</p>
-      <p>🔍 Disfruto del <b>análisis de sistemas</b> complejos al trabajar e integrar diferentes tecnologías.</p>
-      <p>⚡ Buscando siempre aprender nuevas herramientas y construir código eficiente.</p>
-      <br />
-      <p>📬 <b>Contacto:</b> <a href="mailto:gabrielstephano2004@gmail.com">gabrielstephano2004@gmail.com</a></p>
-    </td>
-    <td width="45%" align="center" valign="middle" style="border: none; background: transparent;">
-      <img src="https://github.com/Eclectic-Coder/Eclectic-Coder/raw/main/assets/programmer.gif" width="100%" style="max-width:400px; border-radius: 10px;" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
+---
+
+<div style="display: block; clear: both; width: 100%;">
+  
+  <div style="float: left; width: 55%; min-width: 300px;">
+    <h3>Sobre mí 🤓</h3>
+    <br />
+    <p>🎓 <b>Estudiante de Ingeniería de Sistemas</b>.</p>
+    <p>🎨 Interesado en el desarrollo <b>Frontend</b> moderno y el diseño de interfaces limpias.</p>
+    <p>⚙️ Entusiasta de las <b>automatizaciones</b> para optimizar flujos de trabajo y tareas repetitivas.</p>
+    <p>🔍 Disfruto del <b>análisis de sistemas</b> complejos al trabajar e integrar diferentes tecnologías.</p>
+    <p>⚡ Buscando siempre aprender nuevas herramientas y construir código eficiente.</p>
+    <br />
+    <p>📬 <b>Contacto:</b> <a href="mailto:gabrielstephano2004@gmail.com">gabrielstephano2004@gmail.com</a></p>
+  </div>
+
+  <div style="float: right; width: 40%; text-align: center;">
+    <img src="https://raw.githubusercontent.com/Eclectic-Coder/Eclectic-Coder/main/assets/programmer.gif" width="100%" style="max-width: 380px; border-radius: 10px;" alt="Coding GIF" />
+  </div>
+
+</div>
+
+<div style="clear: both;"></div>
 
 ---
 
