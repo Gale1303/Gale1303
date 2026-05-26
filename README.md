@@ -1,5 +1,4 @@
 <img width="736" height="414" alt="ezgif-66868342ae0537d1" src="https://github.com/user-attachments/assets/bfd21be3-b128-40f2-8d51-d86cd36b0334" />
----
 
 <table>
   <tr>
@@ -20,7 +19,6 @@
   </tr>
 </table>
 
----
 
 ### Tecnologías conocidas 🛠️
 
