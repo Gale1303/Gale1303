@@ -18,7 +18,7 @@
       <p>📬 <b>Contacto:</b> <a href="mailto:gabrielstephano2004@gmail.com">gabrielstephano2004@gmail.com</a></p>
     </td>
     <td width="45%" align="center" valign="middle" style="border: none; background: transparent;">
-      <img src="<img width="720" height="720" alt="ezgif-824578ba28a98feb" src="https://github.com/user-attachments/assets/130eb480-9a8d-47c3-acc4-e12bc90c06f3" />" width="100%" style="max-width: 350px; border-radius: 10px; display: block;" alt="Coding GIF" />
+      <img src="https://github.com/user-attachments/assets/e69c1855-c91f-46d1-9760-33e925d8c177" width="100%" style="max-width: 350px; border-radius: 10px; display: block;" alt="Coding GIF" />
     </td>
   </tr>
 </table>
@@ -36,10 +36,4 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/NetBeans-78A75A?style=for-the-badge&logo=apache-netbeans&logoColor=white" alt="NetBeans" />
-</p>
-
----
+  <img src="
