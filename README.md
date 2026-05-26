@@ -1,11 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=150&section=header&text=Gabriel%20%7C%20Systems%20Engineering&fontSize=30&animation=fadeIn" width="100%" alt="Banner" />
-</p>
-
-<p align="center">
-  <h3>✨ Apasionado por el desarrollo de Software y la Ingeniería de Sistemas ✨</h3>
-  <h2>👋 ¡Bienvenido a mi perfil de desarrollo!</h2>
-</p>
+<img width="736" height="414" alt="ezgif-66868342ae0537d1" src="https://github.com/user-attachments/assets/bfd21be3-b128-40f2-8d51-d86cd36b0334" />
 ---
 
 <table>
