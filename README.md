@@ -1,50 +1,58 @@
-# ¡Hola! Soy Gabriel 👋
-
-### 🚀 Estudiante de Ingeniería de Sistemas | Front-End Developer | Automation Enthusiast
-
-Me apasiona encontrar el equilibrio perfecto entre la experiencia de usuario en el **Frontend**, la eficiencia mediante **automatizaciones** y el **análisis profundo de sistemas** para construir soluciones tecnológicas robustas y escalables. 
-
----
-
-### 💻 Sobre mí
-
-- 🎓 Actualmente cursando la carrera de **Ingeniería de Sistemas**.
-- 🛠️ Me encanta analizar cómo interactúan los componentes de un sistema para optimizar su rendimiento y lógica.
-- ⚙️ Automatizo tareas repetitivas para hacer la vida (y el flujo de trabajo) más fácil.
-- 🎨 Disfruto darles vida a las interfaces cuidando el detalle y la experiencia del usuario.
-
----
-
-### 🛠️ Tecnologías y Herramientas
-
-#### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### ☕ Lenguajes de Respaldo & Lógica
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-#### 🤖 Automatizaciones y Herramientas
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📊 Mis Estadísticas de GitHub
-
-Aquí puedes ver un resumen de mi actividad en la plataforma:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=150&section=header&text=Gabriel%20%7C%20Systems%20Engineering&fontSize=30&animation=fadeIn" width="100%" alt="Banner" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados" />
+  <h3>✨ Apasionado por el desarrollo de Software y la Ingeniería de Sistemas ✨</h3>
+  <h2>👋 ¡Bienvenido a mi perfil de desarrollo!</h2>
 </p>
 
 ---
 
-### 📫 Conéctate conmigo
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>Sobre mí 🤓</h3>
+      <br />
+      <p>🎓 <b>Estudiante de Ingeniería de Sistemas</b>.</p>
+      <p>🎨 Interesado en el desarrollo <b>Frontend</b> moderno y el diseño de interfaces limpias.</p>
+      <p>⚙️ Entusiasta de las <b>automatizaciones</b> para optimizar flujos de trabajo y tareas repetitivas.</p>
+      <p>🔍 Disfruto del <b>análisis de sistemas</b> complejos al trabajar e integrar diferentes tecnologías.</p>
+      <p>⚡ Buscando siempre aprender nuevas herramientas y construir código eficiente.</p>
+      <br />
+      <p>📬 <b>Contacto:</b> <a href="mailto:tu-correo@gmail.com">tu-correo@gmail.com</a></p>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6Z3M0OHY3Zm96bXNnbXNid3VwZndwNWhvN3NtcXo4cXEyeWhpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" alt="Developer GIF" />
+    </td>
+  </tr>
+</table>
 
-Si quieres hablar sobre análisis de sistemas, desarrollo frontend o ideas locas para automatizar procesos, ¡no dudes en contactarme!
+---
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_LINKEDIN_AQUI)
-[![Correo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@gmail.com)
+### Tecnologías conocidas 🛠️
+
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/NetBeans-78A75A?style=for-the-badge&logo=apache-netbeans&logoColor=white" alt="NetBeans" />
+</p>
+
+---
+
+### Conéctate conmigo 🌐
+
+<p align="left">
+  <a href="https://linkedin.com/in/TU_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
