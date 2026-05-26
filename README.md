@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=150&section=header&text=Gabriel%20%7C%20Systems%20Engineering&fontSize=30&animation=fadeIn" width="100%" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=150&section=header&text=Gabriel%20%7C%20Systems%20Engineering&fontSize=30&animation=fadeIn" width="100%" alt="https://www.pinterest.com/pin/617837642698126381/" />
 </p>
 
 <p align="center">
