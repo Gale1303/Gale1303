@@ -1,8 +1,10 @@
-<img width="736" height="414" alt="ezgif-66868342ae0537d1" src="https://github.com/user-attachments/assets/bfd21be3-b128-40f2-8d51-d86cd36b0334" />
+<p align="center">
+  <img width="736" height="414" alt="ezgif-66868342ae0537d1" src="https://github.com/user-attachments/assets/bfd21be3-b128-40f2-8d51-d86cd36b0334" />
+</p>
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td width="55%" valign="top" style="border: none; background: transparent;">
       <h3>Sobre mí 🤓</h3>
       <br />
       <p>🎓 <b>Estudiante de Ingeniería de Sistemas</b>.</p>
@@ -11,14 +13,15 @@
       <p>🔍 Disfruto del <b>análisis de sistemas</b> complejos al trabajar e integrar diferentes tecnologías.</p>
       <p>⚡ Buscando siempre aprender nuevas herramientas y construir código eficiente.</p>
       <br />
-      <p>📬 <b>Contacto:</b> <a href="mailto:gabrielstephano2004@gmail.com">tu-correo@gmail.com</a></p>
+      <p>📬 <b>Contacto:</b> <a href="mailto:gabrielstephano2004@gmail.com">gabrielstephano2004@gmail.com</a></p>
     </td>
-    <td width="45%" align="center" valign="middle">
+    <td width="45%" align="center" valign="middle" style="border: none; background: transparent;">
       <img src="https://github.com/Eclectic-Coder/Eclectic-Coder/raw/main/assets/programmer.gif" width="100%" style="max-width:400px; border-radius: 10px;" alt="Coding GIF" />
     </td>
   </tr>
 </table>
 
+---
 
 ### Tecnologías conocidas 🛠️
 
@@ -38,11 +41,3 @@
 </p>
 
 ---
-
-### Conéctate conmigo 🌐
-
-<p align="left">
-  <a href="https://linkedin.com/in/TU_LINKEDIN_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
