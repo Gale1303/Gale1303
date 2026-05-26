@@ -15,6 +15,7 @@
       <p>📬 <b>Contacto:</b> <a href="mailto:gabrielstephano2004@gmail.com">tu-correo@gmail.com</a></p>
     </td>
     <td width="45%" align="center" valign="middle">
+      <img src="https://github.com/Eclectic-Coder/Eclectic-Coder/raw/main/assets/programmer.gif" width="100%" style="max-width:400px; border-radius: 10px;" alt="Coding GIF" />
     </td>
   </tr>
 </table>
