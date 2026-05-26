@@ -4,27 +4,24 @@
 
 ---
 
-<div style="display: block; clear: both; width: 100%;">
-  
-  <div style="float: left; width: 55%; min-width: 300px;">
-    <h3>Sobre mí 🤓</h3>
-    <br />
-    <p>🎓 <b>Estudiante de Ingeniería de Sistemas</b>.</p>
-    <p>🎨 Interesado en el desarrollo <b>Frontend</b> moderno y el diseño de interfaces limpias.</p>
-    <p>⚙️ Entusiasta de las <b>automatizaciones</b> para optimizar flujos de trabajo y tareas repetitivas.</p>
-    <p>🔍 Disfruto del <b>análisis de sistemas</b> complejos al trabajar e integrar diferentes tecnologías.</p>
-    <p>⚡ Buscando siempre aprender nuevas herramientas y construir código eficiente.</p>
-    <br />
-    <p>📬 <b>Contacto:</b> <a href="mailto:gabrielstephano2004@gmail.com">gabrielstephano2004@gmail.com</a></p>
-  </div>
-
-  <div style="float: right; width: 40%; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Eclectic-Coder/Eclectic-Coder/main/assets/programmer.gif" width="100%" style="max-width: 380px; border-radius: 10px;" alt="Coding GIF" />
-  </div>
-
-</div>
-
-<div style="clear: both;"></div>
+<table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; background: transparent; width: 100%;">
+  <tr style="border: none; background: transparent;">
+    <td width="55%" valign="top" style="border: none; background: transparent; padding-right: 15px;">
+      <h3>Sobre mí 🤓</h3>
+      <br />
+      <p>🎓 Estudiante de <b>Ingeniería de Sistemas</b>.</p>
+      <p>🔍 Me apasiona desarmar la lógica de un sistema, entender cómo interactúa cada componente y elegir la tecnología adecuada para optimizarlo.</p>
+      <p>💡 No pretendo conocer cada herramienta que existe en el mundo técnico; mi enfoque está en la <b>investigación activa</b> para dominar e implementar exactamente lo que el proyecto necesite.</p>
+      <p>🎨 En el desarrollo, disfruto conectar esa estructura de fondo con interfaces <b>Frontend</b> que sean funcionales y limpias.</p>
+      <p>⚙️ Busco automatizar flujos repetitivos para que el proceso de desarrollo sea lo más eficiente posible.</p>
+      <br />
+      <p>📬 <b>Contacto:</b> <a href="mailto:gabrielstephano2004@gmail.com">gabrielstephano2004@gmail.com</a></p>
+    </td>
+    <td width="45%" align="center" valign="middle" style="border: none; background: transparent;">
+      <img src="<img width="720" height="720" alt="ezgif-824578ba28a98feb" src="https://github.com/user-attachments/assets/130eb480-9a8d-47c3-acc4-e12bc90c06f3" />" width="100%" style="max-width: 350px; border-radius: 10px; display: block;" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
