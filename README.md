@@ -12,10 +12,9 @@
       <p>🔍 Disfruto del <b>análisis de sistemas</b> complejos al trabajar e integrar diferentes tecnologías.</p>
       <p>⚡ Buscando siempre aprender nuevas herramientas y construir código eficiente.</p>
       <br />
-      <p>📬 <b>Contacto:</b> <a href="mailto:tu-correo@gmail.com">tu-correo@gmail.com</a></p>
+      <p>📬 <b>Contacto:</b> <a href="mailto:gabrielstephano2004@gmail.com">tu-correo@gmail.com</a></p>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6Z3M0OHY3Zm96bXNnbXNid3VwZndwNWhvN3NtcXo4cXEyeWhpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" alt="Developer GIF" />
     </td>
   </tr>
 </table>
